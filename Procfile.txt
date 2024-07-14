@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run mult_dis_pred.py
